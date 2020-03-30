@@ -1,0 +1,64 @@
+body {font-size: 16px;
+      color: black ;
+      font-family: helvetica sans-serif;      
+      }
+
+#header-nav{border-radius: 0 ;
+            border: 2px solid-black; 
+            background-color: gray ;           
+            }
+
+.navbar-brand{margin-top: 15px;
+              margin-bottom: 15px;              
+              }
+
+.navbar-brand h1{font-size: 1.5em ;
+	             font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif ; 
+                 color: black ;
+                 font-weight: bold;
+                 line-height: .75em ; 
+                 margin-bottom: 0px;
+                 margin-top:0px;
+                 }              
+
+.navbar-brand a:hover h1{
+	color: gray ;
+	text-decoration: none ; 
+  text-shadow: 1px solid-black ;
+}
+
+#nav-list {margin: 0px;
+           padding: 0px;
+           background-color: white ; 
+           border: 2px black;
+            }
+#talwin{background-color: white;
+         margin:0px ;
+         padding:0px ;}
+
+#nav-list a {text-align: center;
+              border-color: black ; 
+              border-width: 2px ; }
+
+#nav-list a:hover{color: gray;}
+
+#nav-list li{border: 5px black;}
+
+h2{text-align:center;
+   font-weight: bold;
+   }
+p{background-color: gray ;
+  height: 1000px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
