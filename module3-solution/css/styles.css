@@ -1,1 +1,33 @@
+body {font-size: 16px;
+      color:#fff;
+      font-family: helvetica sans-serif;      
+      }
 
+#header-nav{border-radius: 0 ;
+            border: 2px solid-black;           
+            }
+
+.navbar-brand{margin-top: 15px;
+              margin-bottom: 15px;              
+              }
+
+.navbar-brand h1{font-size: 1.5em ;
+	             font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif ; 
+                 color: black ;
+                 font-weight: bold;
+                 line-height: .75em ; 
+                 margin-bottom: 0px;
+                 margin-top:0px;
+                 }              
+
+.navbar-brand a:hover h1{
+	color: gray ;
+	text-decoration: none ; 
+    text-shadow: 1px solid-black ;
+}
+
+#nav-list {margin-top: 15px;}
+
+#nav-list a {text-align: center;}
+
+#nav-list a:hover{color: white;}
